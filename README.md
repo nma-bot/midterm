@@ -27,3 +27,8 @@ Other examples:
   - Have 2 other students review your work by mentioning them using the **@username** syntax in your pull request description (not the title!)
   - If your classmates find any issues, make the fixes locally and push the changes to the same remote branch
   - Once your code has been reviewed by 2 classmates and your code is ready to turn in, create a new comment on your pull request with the words `@micjamking: Final Submission`; this will send me a notification that your assignment is ready to be graded.
+
+### Turning in your project
+- Create a pull request from your `<username>/midterm:gh-pages` to `kcc-nma-art258/midterm:master`
+- The pull request should have the title `NMA Bot - Midterm` (replacing `NMA Bot` with your name) 
+- Turn in your project **by 11:59pm, Monday October 26**.
