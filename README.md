@@ -21,7 +21,8 @@ Other examples:
 
 ## Project Guidelines
 - Must use your own custom HTML & CSS (no third-party code!)
-- Your project should use Sass and be structured following our CSS architecture guidelines 
+- Your project should use Sass and be structured following our CSS architecture guidelines
+- If possible, your site should be built from the same components you are showcasing.
 - Must be hosted on GitHub in a `gh-pages` branch
 - When you are ready to submit your code assignment, create a pull request using the `gh-pages` branch:
   - Have 2 other students review your work by mentioning them using the **@username** syntax in your pull request description (not the title!)
