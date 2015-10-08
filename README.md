@@ -22,7 +22,18 @@ Other examples:
 ## Project Guidelines
 - Must use your own custom HTML & CSS (no third-party code!)
 - Your project should use Sass and be structured following our CSS architecture guidelines
-- If possible, your site should be built from the same components you are showcasing.
+  - You project should include a `styles/` directory and a main `style.scss` file
+  - Your project should include a `base/`, `layout/`, and `modules/` directory
+- If possible, your site should be built from the same components you are showcasing, ie. it should include the following files
+  - `base/_reset.scss`
+  - `base/_typography.scss`
+  - `base/_variables.scss`
+  - `base/_mixins.scss`
+  - `base/_functions.scss`
+  - `base/_media-queries.scss`
+  - `layout/_grid.scss`
+  - `modules/_buttons.scss`
+  - `modules/_forms.scss`
 - Must be hosted on GitHub in a `gh-pages` branch
 - When you are ready to submit your code assignment, create a pull request using the `gh-pages` branch:
   - Have 2 other students review your work by mentioning them using the **@username** syntax in your pull request description (not the title!)
