@@ -302,6 +302,7 @@ input[type="button"] {
   display: inline-block;
   text-decoration: none;
   color: inherit;
+  font: inherit;
   padding: 0.5em 1em;
   margin-bottom: 0.5em;
   background-color: #DEDEDE;
