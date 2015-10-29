@@ -10,6 +10,7 @@ input[type="button"] {
   display: inline-block; // Make display properties consistent across the board
   text-decoration: none; // Remove underline for anchor buttons
   color: inherit;        // Inherit the default color (ie. black)
+  font: inherit;
   padding: 0.5em 1em;
   margin-bottom: 0.5em;
   background-color: #DEDEDE;
